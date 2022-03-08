@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+## Credits
+
+Made following this tutorial: [https://dev.to/nourdinedev/how-to-use-threejs-and-react-to-render-a-3d-model-of-your-self-4kkf?fbclid=IwAR3dsNKpJfc3ovTO-AGcwFZy7Rfpp5HcaeU9ctSfMGBOMS9Edwd26dWS-0E](https://dev.to/nourdinedev/how-to-use-threejs-and-react-to-render-a-3d-model-of-your-self-4kkf?fbclid=IwAR3dsNKpJfc3ovTO-AGcwFZy7Rfpp5HcaeU9ctSfMGBOMS9Edwd26dWS-0E)
